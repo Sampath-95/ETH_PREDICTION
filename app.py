@@ -1,7 +1,7 @@
-pip install pystan==2.19.1.1 --quiet
-pip install fbprophet --quiet
-pip install yfinance --quiet
-pip install streamlit --quiet
+pip install pystan==2.19.1.1
+pip install fbprophet
+pip install yfinance
+pip install streamlit
 import streamlit as st
 import pandas as pd
 import yfinance as yf
