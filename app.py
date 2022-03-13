@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import yfinance as yf
-import datetime
-import timedelta
+from datetime import datetime
+from datetime import timedelta
 import plotly.graph_objects as go
 from fbprophet import Prophet
 from fbprophet.plot import plot_plotly, plot_components_plotly
