@@ -203,7 +203,7 @@ else:
   
   st.success("Thank you for knowing about us")
   
-  st.write("### We are Computer Science Undergraduates from Saveetha Engineering College")
+  st.write("### We are Computer Science Undergraduates from Vignana Bharathi Institute of Technology")
 footer="""<style>
 a:link , a:visited{
 color: blue;
